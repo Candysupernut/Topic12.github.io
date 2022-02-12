@@ -1,0 +1,27 @@
+.block1{
+	height:500px;
+	width:500px;
+	background-color:blue;
+	border: 10px solid black;
+}
+.block2{
+	height:400px;
+	width:400px;
+	background-color:green;
+	border: 10px solid black;
+	border:inherit;
+}
+.block3{
+	height:300px;
+	width:300px;
+	background-color:yellow;
+	border: 10px solid black;
+	border:inherit;
+}
+.block4{
+	height:200px;
+	width:200px;
+	background-color:red;
+	border: 10px solid black;
+	border:inherit;
+}

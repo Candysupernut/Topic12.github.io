@@ -1,0 +1,20 @@
+body{
+	background-color: violet;
+}
+h1{
+	color:purple;
+}
+ul li li{
+	color:Indigo;
+	Font-weight:bold;
+}
+.block{
+	background-color:BlueViolet;
+	height:200px;
+	width:200px;
+}
+.pic1{
+	border-radius:150px;
+	height:300px;
+	width:300px;
+}
